@@ -19,7 +19,7 @@ Replace (Your Name) with Your Name <br>
 Replace (Your City) with Your City <br>
 Replace (Your Country) with Your Country Name<br>
 
-# Gmali
+# Gmail
 Line No: 74 replace (Your Mail) with your gmail without brackets 
 
 ## Contact Me
